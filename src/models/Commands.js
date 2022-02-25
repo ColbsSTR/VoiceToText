@@ -1,0 +1,1 @@
+export const STOP_RECORDING_COMMAND = 'stop recording atlantis';
